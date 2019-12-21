@@ -1,0 +1,1 @@
+In this programming assignment I have to solve MNIST digit classification problem using Linear model. It's simpler and beginer level exsercise to make one fimiliar with TensorFlow. After implementing linear model, one need to experiment with Multi Layer Perceptron also, see difference in accuracy.
